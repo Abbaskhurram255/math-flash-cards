@@ -1,10 +1,8 @@
 # React Math Flash Cards
 
-A simple web app for math flash cards created for my younger sister after realizing my mother forgot to purchase some.
+<a href="https://abbaskhurram255.github.io/math-flash-cards/" target="_blank">Demo</a>
 
-<a href="http://math.caseykolb.com" target="_blank">Demo</a>
-
-## How To Run
+## How To Run locally
 `npm install`
 
 `npm start`
